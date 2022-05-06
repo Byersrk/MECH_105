@@ -1,4 +1,4 @@
-# MECH_105_2.0 MATLAB Algorithms
+# MECH_105 MATLAB Algorithms
 A folder with MATLAB files created in MECH_105.
 
 ## Algorithms:
