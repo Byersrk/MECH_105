@@ -1,3 +1,5 @@
+# False Position
+
 Function estimates the root of a given function using the false position method.
 Inputs:
 * func - the function being evaluated
